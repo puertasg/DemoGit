@@ -1,6 +1,11 @@
 ![Git Logo](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
 # DemoGit
 
+## Liens utiles
+**Documentation Git : ** https://git-scm.com/doc
+
+**GitHub : ** https://github.com/
+
 **Commandes Git de base**
 
 1. `init` Initialise un dépot git dans le dossier courant
@@ -16,5 +21,5 @@
 ` Ajoute le dépot *tp1-formation* appartenant à *puertasg*
 11. `pull origin master` Récupère la branche master sur le dépot distant
 12. `push` Met à jour le dépot distant grâce aux modifications faites sur le local
-13. `clone` Clone un dépot dans un dossier Crée
+13. `clone` Clone un dépot dans un nouveau dossier
 14. `log` Liste les commit effectués sur le dépot
